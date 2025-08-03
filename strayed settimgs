@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "version": "0.10.1.1"
+    },
+    "gameplaySettings": {
+        "dominantHand": 1,
+        "nonDominantHand": 0,
+        "movementHand": 0,
+        "movementRef": 0,
+        "height": 1.0932700634002686,
+        "turnMode": 0,
+        "smoothTurnSpeed": 200.0,
+        "snapTurnAmount": 45.0,
+        "spectatorCamera": false,
+        "streamerMode": false,
+        "radialSettingsButton": true,
+        "radialCraftingButton": true,
+        "radialMuteButton": true,
+        "radialRespawnButton": true,
+        "moveDeadzone": 0.15000000596046449,
+        "turnDeadzone": 0.15000000596046449,
+        "mapClock": true,
+        "mapCompass": true,
+        "autoRun": true,
+        "uiSphere": true,
+        "haptics": true,
+        "vStock": true,
+        "spectatorCamFOV": 100.0,
+        "showUIInSpectatorCam": true,
+        "performanceStats": false
+    },
+    "videoSettings": {
+        "grassDensity": 1,
+        "postProcessing": true,
+        "bloom": true,
+        "hdr": true,
+        "upscalingFilter": 0,
+        "fidelityFXSharpness": 0.0,
+        "renderScale": 1.0,
+        "textureQuality": 0,
+        "shadowResolution": 3,
+        "shadowDistance": 100.0,
+        "shadowCascadeCount": 2
+    },
+    "audioSettings": {
+        "masterVolume": 100.0,
+        "incomingVoiceVolume": 100.0,
+        "mic": "Android audio input"
+    },
+    "offlineModeSettings": {
+        "infiniteAmmo": true,
+        "flyHotKey": true
+    }
+}
